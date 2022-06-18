@@ -1,0 +1,11 @@
+.table, table.footer{
+    background-color:#dbdbdbad;
+    width: 475px;
+    background-position: center;
+    
+    
+  
+}
+.footer{
+    position: relative;
+}
